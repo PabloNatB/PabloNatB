@@ -2,13 +2,12 @@
 
 💡 *Cloud Data Analyst | MSc. Data Science Student | Physics Graduate*  
 
-I’m passionate about **Data Science, Machine Learning, and Cloud Engineering**. I love working with data, building AI models, and creating solutions that make a real impact.  
+I’m passionate about **Data Science, Machine Learning, and Data Analysis**. I love working with data, building AI models, and creating solutions that make a real impact.  
 
 ---
 
 ## 🔹 What I Do
 - 🤖 Train and deploy **ML & Deep Learning models**  
-- ☁️ Build **cloud-native pipelines** (Azure, AWS, GCP)  
 - 📊 Create dashboards & visualizations for insights  
 - ⚡ Automate workflows with **Python, SQL & APIs**  
 
